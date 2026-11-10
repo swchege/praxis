@@ -164,12 +164,12 @@ Runs reported in the praxis used Google Colab with a single NVIDIA GPU.
 If you use this code, please cite the praxis:
 
 ```bibtex
-@phdthesis{chege2026praxis,
+@phdthesis{chege2027praxis,
   author = {Chege, Steven},
   title  = {Adversarial Generalization in Deep Learning-Based Network Intrusion Detection Systems},
   school = {The George Washington University},
   type   = {Doctoral praxis},
-  year   = {2026}
+  year   = {2027}
 }
 ```
 
@@ -177,5 +177,3 @@ Please also cite the datasets: Sharafaldin et al. (2018) for CIC-IDS2017, Mousta
 
 ## License
 
-<!-- Choose a license, e.g. MIT, and add a LICENSE file. -->
-Add a license before making the repository public.
