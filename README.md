@@ -177,3 +177,6 @@ Please also cite the datasets: Sharafaldin et al. (2018) for CIC-IDS2017, Mousta
 
 ## License
 
+The code in this repository is released under the MIT License. See [LICENSE](LICENSE).
+The datasets are not included and remain subject to their publishers' terms.
+
