@@ -1,0 +1,14 @@
+# Datasets are downloaded separately and are not redistributed
+datasets/
+
+# Pipeline outputs (splits, models, synthetic data, results)
+outputs/
+outputs_*/
+
+# Python and Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
