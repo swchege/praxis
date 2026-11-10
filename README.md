@@ -1,6 +1,6 @@
 # VAE Boundary Synthesis for Zero-Day Intrusion Detection
 
-Code for the doctoral praxis *Adversarial Generalization in Deep Learning–Based Network Intrusion Detection Systems* (Steven Chege, The George Washington University).
+Code for the doctoral praxis *Closing the Generalization Gap in Network Intrusion Detection: A Generative Deep Learning Approach for Out-of-Distribution Threat Resilience* (The George Washington University).
 
 The praxis asks whether synthetic records generated near class boundaries in the latent space of a Variational Autoencoder (VAE) help a deep learning intrusion detection system recognize attacks it was never trained on. One attack class is withheld from each of three benchmark datasets as a zero-day proxy. A VAE-augmented CNN-LSTM is then compared with an identical CNN-LSTM trained without synthetic data and with a Random Forest.
 
@@ -167,7 +167,7 @@ If you use this code, please cite the praxis:
 ```bibtex
 @phdthesis{chege2026praxis,
   author = {Chege, Steven},
-  title  = {Adversarial Generalization in Deep Learning-Based Network Intrusion Detection Systems},
+  title  = {Closing the Generalization Gap in Network Intrusion Detection: A Generative Deep Learning Approach for Out-of-Distribution Threat Resilience},
   school = {The George Washington University},
   type   = {Doctoral praxis},
   year   = {2026}
